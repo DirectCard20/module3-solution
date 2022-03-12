@@ -1,0 +1,66 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#header-nav {
+  background-color: gray;
+  border-radius: 0;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  margin-left: 0;
+  margin-right: 0;
+}
+.navbar-brand h1 { 
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+  font-size: 1.3em;
+  font-weight: 900;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand p {
+  color: #000;
+  text-transform: uppercase;
+  font-size: .7em;
+  margin-top: 15px;
+}
+.navbar-brand p span { 
+  vertical-align: middle;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+#collapsable-nav{
+  color: black;
+  text-align: center;
+  font-weight: 700;
+}
+.text-center{
+  color: black;
+  font-size: 25px;
+  font-family: Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  margin-bottom: 35px;
+}
+#main-content{
+  background-color: gray;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 0px;
+}
+.col-xs-12{
+  color: black;
+  font-weight: 600;
+}
+.col-xs-12 h3{
+  text-align: center;
+  font-weight: 600;
+}
